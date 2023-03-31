@@ -1,0 +1,14 @@
+Website Project:
+Galabau-Bielefeld http://localhost:8080/#
+
+
+This project is a Website SPA (Single Page Application) and uses  FreeMarker.
+
+FreeMarker is a Java-based template engine focusing on the MVC software architecture.
+Although it’s mostly used for Servlet-based Web Application development
+
+This project is ruined on IntelliJ and has jdk17 on it.
+
+You run the program and then go to website and insert this link:
+Galabau-Bielefeld http://localhost:8080/#
+ https://www.galabau-Bielefeld.info
