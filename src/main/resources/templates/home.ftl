@@ -150,6 +150,7 @@
                     <img alt="Bootstrap Image Preview" src="images/ad_01.png" width="200px" height="200px" class="rounded-circle" />
                     <dl>
                         <dt>
+                            This is from Agron.
                             This is for Behar.
                         </dt>
                         <dd>
